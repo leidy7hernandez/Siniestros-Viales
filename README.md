@@ -123,17 +123,17 @@ El mapa resalta la importancia de tomar medidas específicas en la Avenida Gener
 Se llevaron a cabo la creación de Indicadores Clave de Desempeño (KPIs) y métricas relevantes. Estos indicadores proporcionaron una medición cuantitativa del impacto de las intervenciones y sirvieron como base para la toma de decisiones informadas.
 
 ### El Ministerio de Seguridad de la Nación se propuso reducir en un 10% la tasa de homicidios en siniestros viales de los últimos seis meses, en CABA, en comparación con la tasa de homicidios en siniestros viales del semestre anterior.
-### poblacion_semestral 1 ###
+![Image text](https://github.com/leidy7hernandez/Siniestros-Viales/blob/main/Imagenes/poblacion_semestral%201.png)
 La variación porcentual de la tasa de homicidios viales disminuyó considerablemente en el último semestre analizado, presentando una reducción del -24.02% (la tasa pasó de 1.79 a 1.36). Si bien esto indica que se ha logrado un avance significativo al reducir esta tasa y acercarse al objetivo, es importante destacar que aún es necesario continuar trabajando para mejorar la cifra de fallecidos en siniestros viales. Recordemos que detrás de cada número estadístico hay vidas humanas y familias afectadas, en este caso, 42 familias que han sufrido pérdidas.
 
 ### Reducir en un 7% la cantidad de accidentes mortales de motociclistas en el último año, en CABA, respecto al año anterior
 Este objetivo es de suma importancia, dado que casi la mitad de las víctimas fatales de los siniestros viales son motociclistas.
-### poblacion_anual 1 ###
+![Image text](https://github.com/leidy7hernandez/Siniestros-Viales/blob/main/Imagenes/poblacion_anual%201.png)
 En el año 2021, se observó un incremento en la tasa de homicidios viales en motociclistas del 19.77%, con la tasa anual pasando de 0.94 a 1.49. Como recomendación para alcanzar este objetivo, que ha sido mencionado previamente, se pueden llevar a cabo programas de concientización vial dirigidos específicamente a los motociclistas, además de intensificar la supervisión del uso de equipos de seguridad, como el casco.
 
 ### Reducir la tasa anual de homicidios viales en las avenidas en un 20% con respecto al año anterior.
 Este objetivo se establece en función de la sección 2, ya que al explorar la ubicación de los homicidios en relación con la comuna y el tipo de calle, se identificó que las avenidas son los lugares donde ocurren con mayor frecuencia los siniestros viales fatales.
-### poblacion_anual 2 ###
+![Image text](https://github.com/leidy7hernandez/Siniestros-Viales/blob/main/Imagenes/poblacion_anual%202.png)
 En los últimos años, la tasa de homicidios viales en las avenidas ha experimentado fluctuaciones significativas, y lamentablemente, no se logró cumplir con el objetivo el año pasado. Sin embargo, con un aumento en la presencia de las autoridades viales en las avenidas, se espera reducir esta tasa de manera efectiva.
 
 ## 6. Conclusiones y sugerencias
